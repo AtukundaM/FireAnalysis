@@ -3,6 +3,7 @@ import tempfile
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
+import seaborn as sns
 from pptx import Presentation
 from pptx.dml.color import RGBColor
 from pptx.util import Inches, Pt
