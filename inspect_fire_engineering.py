@@ -2,6 +2,7 @@ from pathlib import Path
 import zipfile
 import xml.etree.ElementTree as ET
 import pandas as pd
+import seaborn as sns
 
 base = Path(r'c:\Users\matukunda\OneDrive\Documents\FIRE_ENGINEERING')
 
